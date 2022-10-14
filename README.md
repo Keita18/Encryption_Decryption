@@ -1,7 +1,7 @@
 # Encryption_Decryption
 Core Java Secuirity Algorithm: this module contains Encryption decryptuon algorithm with Strategy Pattern
 
-###Examples
+### Examples
 
 1. `Example 1`: reading and writing to files; the arguments are: -mode enc -in road_to_treasure.txt -out protected.txt -key 5 -alg unicode
 
